@@ -1,5 +1,5 @@
 .pytest_cache
 src/.pytest_cache
 src/__pycache__
-tests/__pycache___
+tests/__pycache__
 notes
