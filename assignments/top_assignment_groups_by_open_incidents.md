@@ -1,8 +1,8 @@
-# ServiceNow Practice Challenge: Top Assignment Groups by Open Incidents
+# Practice Challenge: Top Assignment Groups by Open Incidents
 
 ## Overview
 
-In real ServiceNow environments, operations teams frequently generate reports to understand **which teams are carrying the most active incidents**.
+In real environments, operations teams frequently generate reports to understand **which teams are carrying the most active incidents**.
 
 This helps identify:
 
@@ -15,7 +15,7 @@ Your task is to write a Python function that processes a list of incident record
 
 This type of logic is commonly used when building:
 
-- ServiceNow reporting scripts
+- reporting scripts
 - incident backlog dashboards
 - operational workload summaries
 - incident analytics pipelines

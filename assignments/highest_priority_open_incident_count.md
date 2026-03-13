@@ -1,14 +1,14 @@
-# ServiceNow Practice Challenge: Highest Priority Open Incident Count
+# Practice Challenge: Highest Priority Open Incident Count
 
 ## Overview
 
-In ServiceNow and IT operations environments, teams often need to quickly understand how many **open incidents** exist at each priority level, especially for escalation and reporting.
+In and IT operations environments, teams often need to quickly understand how many **open incidents** exist at each priority level, especially for escalation and reporting.
 
 Your task is to write a Python function that processes a list of incident records and returns the **priority with the highest number of open incidents**, along with its count.
 
 This challenge simulates the kind of logic used in:
 
-- ServiceNow reporting
+- reporting
 - incident escalation dashboards
 - operations summaries
 - queue health monitoring
@@ -161,7 +161,7 @@ Your goal is to identify which priority currently has the greatest number of ope
 
 This type of transformation is common when building scripts for:
 
-- ServiceNow incident summaries
+- incident summaries
 - escalation dashboards
 - queue analysis
 - operational reporting

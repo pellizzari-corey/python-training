@@ -1,8 +1,8 @@
-# ServiceNow Practice Challenge: Incident Summary
+# Practice Challenge: Incident Summary
 
 ## Overview
 
-In many IT operations environments (including ServiceNow), incident records are often processed to generate summaries and metrics for reporting and dashboards.
+In many IT operations environments, incident records are often processed to generate summaries and metrics for reporting and dashboards.
 
 Your task is to write a Python function that processes a list of incident records and returns a structured summary of incident counts grouped by **assignment group** and **state**.
 
@@ -94,7 +94,7 @@ Additional requirements:
 
 This type of data transformation is common when building scripts for:
 
-- ServiceNow automation
+- automation
 
 - monitoring dashboards
 

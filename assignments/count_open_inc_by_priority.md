@@ -1,14 +1,14 @@
-# ServiceNow Practice Challenge: Count Open Incidents by Priority
+# Practice Challenge: Count Open Incidents by Priority
 
 ## Overview
 
-In many IT operations environments and ServiceNow workflows, teams often need quick summaries of **open incidents** by priority to understand workload, operational risk, and escalation needs.
+In many IT operations environments and workflows, teams often need quick summaries of **open incidents** by priority to understand workload, operational risk, and escalation needs.
 
 Your task is to write a Python function that processes a list of incident records and returns a summary of **open incidents grouped by priority**.
 
 This challenge simulates the type of data transformation commonly used in:
 
-- ServiceNow automation scripts
+- automation scripts
 - monitoring dashboards
 - operational reporting
 - incident management pipelines
@@ -130,7 +130,7 @@ Your goal is to produce a dictionary that summarizes **open incidents by priorit
 
 This is a common task when building scripts for:
 
-- ServiceNow automation
+- automation
 - operations dashboards
 - incident backlog reporting
 - monitoring integrations

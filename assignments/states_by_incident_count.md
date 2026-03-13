@@ -1,8 +1,8 @@
-# ServiceNow Practice Challenge: States by Incident Count
+# Practice Challenge: States by Incident Count
 
 ## Overview
 
-In ServiceNow environments, teams often need to generate summaries showing which incident states are the most common.
+In environments, teams often need to generate summaries showing which incident states are the most common.
 
 Your task is to analyze a list of incident records and return a **sorted list of states by incident count**.
 
@@ -110,7 +110,7 @@ Return a sorted list showing which incident states appear most often.
 
 This is similar to problems encountered when writing:
 
-- ServiceNow reporting scripts
+- reporting scripts
 - monitoring pipelines
 - analytics jobs
 - log aggregation tools
